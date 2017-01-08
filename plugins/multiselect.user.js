@@ -1,12 +1,12 @@
 // ==UserScript==
-// @id             iitc-plugin-bookmarks@ZasoGD
-// @name           IITC plugin: Bookmarks for maps and portals
+// @id             iitc-plugin-multiselect
+// @name           IITC plugin: Adds multi-selection features to IITC
 // @category       Controls
-// @version        0.2.12.@@DATETIMEVERSION@@
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
+// @version        0.0.1.@@DATETIMEVERSION@@
+// @namespace      https://github.com/duggTO/ingress-intel-total-conversion
 // @updateURL      @@UPDATEURL@@
 // @downloadURL    @@DOWNLOADURL@@
-// @description    [@@BUILDNAME@@-@@BUILDDATE@@] Save your favorite Maps and Portals and move the intel map with a click. Works with sync.
+// @description    [@@BUILDNAME@@-@@BUILDDATE@@] Multi-select Portals in the IITC map; works with the Bookmarks plugin (folders as well) and with the Sync plugin.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
